@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/01 10:19:17.000.143,=C:\Users\sistemasmac\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/01 10:43:32.000.896,=C:\Users\sistemasmac\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/08 10:16:46.000.207,=C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/26 14:38:28.000.145,=C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/10/26 14:42:24.000.933,C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\sistemas\Documents\RAD Studio\Projects\etiquetas\uetiquetas.pas</Transaction>
+    <Transaction>2021/10/26 14:42:24.000.933,C:\Users\sistemas\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\sistemas\Documents\RAD Studio\Projects\etiquetas\uetiquetas.dfm</Transaction>
+    <Transaction>2021/10/26 14:42:35.000.041,C:\Users\sistemas\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\sistemas\Documents\RAD Studio\Projects\etiquetas\etiquetas.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

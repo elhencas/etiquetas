@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<TfrxReport Version="6.8.5" DotMatrixReport="False" IniFile="\Software\Fast Reports" PreviewOptions.Buttons="167935" PreviewOptions.Zoom="1" PrintOptions.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.CreateDate="44495.6247300463" ReportOptions.Description.Text="" ReportOptions.LastChange="44495.7010340625" ScriptLanguage="PascalScript" ScriptText.Text="begin&#13;&#10;&#13;&#10;end.">
+  <Variables>
+    <item Name=" texto"/>
+    <item Name="descripcion"/>
+    <item Name="codigo"/>
+  </Variables>
+  <TfrxDataPage Name="Data" Height="1000" Left="0" Top="0" Width="1000"/>
+  <TfrxReportPage Name="Page1" PaperWidth="30" PaperHeight="20" PaperSize="256" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" ColumnWidth="0" ColumnPositions.Text="" Frame.Typ="0" MirrorMode="0" HGuides.Text="" VGuides.Text="">
+    <TfrxBarCodeView Name="BarCode1" AllowVectorExport="True" Left="17.22846442" Top="31.83520599" Width="80" Height="41.36956011" BarType="bcCode128" Expression="&#60;codigo&#62;" Frame.Typ="0" Rotation="0" ShowText="False" TestLine="False" Text="12345678" WideBarRatio="2" Zoom="1" Font.Charset="1" Font.Color="0" Font.Height="-12" Font.Name="Arial" Font.Style="0" ColorBar="0"/>
+    <TfrxMemoView Name="descripcion" IndexTag="1" AllowVectorExport="True" Left="7.4906367" Top="7.11610486" Width="99.22031727" Height="22.26843652" Font.Charset="1" Font.Color="-16777208" Font.Height="-8" Font.Name="Arial" Font.Style="0" Frame.Typ="0" ParentFont="False" Text="[descripcion]"/>
+  </TfrxReportPage>
+</TfrxReport>
